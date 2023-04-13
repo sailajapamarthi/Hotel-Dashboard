@@ -1,11 +1,14 @@
-This is an Online Repository for sample dynamic Hotel Revenue dashboard.Feel free to suggest improvements.I did this to Enhance my Resume.
-dataset is from Kaggle
+HOTEL DASHBOARD
+
+This dashboard is related to hotel industry ,by this the management can analyse the revenue and stastics of the group of hotels across India
+
+This Folder consists of hotel dashboard pbix and pdf file where we can view and modify the reports according to the needs
 
 
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. 
-Due to strategic moves from other competitors and ineffective decision-making in management, 
-AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. 
-As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” 
-to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
+SALES DASHBOARD
+
+
+This is the simple report of sales that displays revenue and profit details by product wise and also displayed the top5 reprenstative names
+
+Edit interaction in waterfall chart and custom visualization scroller is used
