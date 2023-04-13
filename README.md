@@ -9,6 +9,6 @@ This Folder consists of hotel dashboard pbix and pdf file where we can view and 
 SALES DASHBOARD
 
 
-This is the simple report of sales that displays revenue and profit details by product wise and also displayed the top5 reprensatative names
+This is the simple report of sales that displays revenue and profit details by product wise ,MOM and QOQ analysis
 
 Edit interaction in waterfall chart and custom visualization scroller is used
